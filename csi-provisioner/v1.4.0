@@ -1,2 +1,2 @@
-FROM quay.io/k8scsi/csiprovisioner:v1.4.0
+FROM quay.io/k8scsi/csi-provisioner:v1.4.0
 MAINTAINER Q
